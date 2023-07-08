@@ -1,4 +1,4 @@
-<h1 align="center">Kubernetes Admin Toolkit v1</h1>
+<h1 align="center">K8s Admin Toolkit v1</h1>
 
 <p align="justify">
 Welcome to the Kubernetes Admin Toolkit v1! This toolkit provides a set of useful scripts and tools for managing and administering Kubernetes clusters.Unlock the full potential of Kubernetes with the Kubernetes Admin Toolkit v1. Our comprehensive set of scripts and tools simplifies cluster management, application deployment, resource monitoring, logging, troubleshooting, security, and automation. Streamline your Kubernetes operations, enhance your productivity, and ensure the reliability and scalability of your applications with our powerful toolkit.
