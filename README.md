@@ -9,6 +9,11 @@ Welcome to the Kubernetes Admin Toolkit v1! This toolkit provides a set of usefu
 [![Contributors](https://img.shields.io/github/contributors/Flynchd/k8s-admin-toolkit-v1.svg?style=plastic)](https://github.com/Flynchd/k8s-admin-toolkit-v1/graphs/contributors)
 [![Stars](https://img.shields.io/github/stars/Flynchd/k8s-admin-toolkit-v1.svg?style=plastic)](https://github.com/Flynchd/k8s-admin-toolkit-v1/stargazers)
 
+## Change Log
+**v1.0.0** (July, 2023)
+- Initial release with 6 main features: Cluster Management, Application Deployment, Resource Monitoring, Logging and Troubleshooting, Security and Compliance, Automation and Orchestration.
+
+
 ## Table of Contents
 
 1. [Cluster Management](#cluster-management)
